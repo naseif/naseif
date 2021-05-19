@@ -1,5 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m currently working on Axolotl and VultrPS
+- 🌱 I’m currently learning Python
+- ⚡ Fun fact about me: I don't have any private Repos, or do I ? 🤔
 
+[![naseif's GitHub stats](https://github-readme-stats.vercel.app/api?username=naseif&count_private=true&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **naseif/naseif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
