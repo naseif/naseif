@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on cinema-hub and Axolotl
-- 🌱 I’m currently learning Python
+- 🔭 I’m currently working on Eyesense-Music-Bot
+- 🌱 I’m currently learning Python and TypeScript
 - ⚡ Fun fact about me: I don't have any private Repos, or do I ? 🤔
 
 [![naseif's GitHub stats](https://github-readme-stats.vercel.app/api?username=naseif&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
