@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Eyesense-Music-Bot
+- 🔭 I’m currently working on [Eyesense-Music-Bot](https://github.com/naseif/Eyesense-Music-Bot) and [vultr-vscode](https://github.com/naseif/vultr-vscode)
 - 🌱 I’m currently learning Python and TypeScript
 - ⚡ Fun fact about me: I don't have any private Repos, or do I ? 🤔
 
