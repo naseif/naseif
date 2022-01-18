@@ -1,11 +1,13 @@
 ## Hi there 👋
 
 ```js
-const greetings = (firstName) {
-  console.log(`Hi :), My name is ${firstName} and I mostly program stuff that I either want to learn or just for personal use 🙄`);
- };
- 
- greetings("Naseif");
+const greetings = (firstName) => {
+    console.log(
+        `Hi :), My name is ${firstName} and I mostly program stuff that I either want to learn or just for personal use 🙄`
+    );
+};
+
+greetings('Naseif');
 ```
 
 ### Some of my open source projects:
