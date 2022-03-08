@@ -12,6 +12,7 @@ greetings('Naseif');
 
 ### Some of my open source projects:
 
+- [teletron-ts](https://github.com/naseif/teletron-ts), Fast and Flexible Telegram Bot API Framework for Node.js 
 - [more4less](https://github.com/naseif/more4less), A price search engine for various online shops.
 - [more4less-api](https://github.com/naseif/more4less-api), A simple and fast RESTful API for [@naseif/more4less](https://github.com/naseif/more4less) built using [@naseif/api-tools-ts](https://github.com/naseif/API-Tools-TS)!
 - [Eyesense-Music-Bot](https://github.com/naseif/Eyesense-Music-Bot), Discord bot to play Music from Youtube, Soundcloud and Spotify using the new slash commands and a lot more!
